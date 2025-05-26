@@ -1,0 +1,5535 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.467942, 25.022613]
+			},
+			"properties": {
+				"cctv_id": 1,
+				"areacode": "C000002",
+				"區域": "板橋區",
+				"address": "文化路1段、民生路(下大漢橋)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000002"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.470993, 25.018879]
+			},
+			"properties": {
+				"cctv_id": 2,
+				"areacode": "C000003",
+				"區域": "板橋區",
+				"address": "縣民大道、民生路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000003"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.494106, 25.072586]
+			},
+			"properties": {
+				"cctv_id": 3,
+				"areacode": "C000004",
+				"區域": "三重區",
+				"address": "重陽路、三和路(國1三重交流道)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000004"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.506065, 25.063614]
+			},
+			"properties": {
+				"cctv_id": 4,
+				"areacode": "C000005",
+				"區域": "三重區",
+				"address": "台北橋(環河快速道路上匝道匯流處)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000005"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.496268, 25.054365]
+			},
+			"properties": {
+				"cctv_id": 5,
+				"areacode": "C000006",
+				"區域": "三重區",
+				"address": "忠孝橋(往台北方向避車彎)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000006"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.494003, 25.047974]
+			},
+			"properties": {
+				"cctv_id": 6,
+				"areacode": "C000007",
+				"區域": "三重區",
+				"address": "中興橋(環河快速道路上匝道匯流處)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000007"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.458524, 25.132069]
+			},
+			"properties": {
+				"cctv_id": 7,
+				"areacode": "C000008",
+				"區域": "淡水區",
+				"address": "民權路、187巷前200公尺",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000008"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.432984, 24.96524]
+			},
+			"properties": {
+				"cctv_id": 8,
+				"areacode": "C000011",
+				"區域": "土城區",
+				"address": "中央路、大安路(土城交流道)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000011"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.468657, 25.013277]
+			},
+			"properties": {
+				"cctv_id": 9,
+				"areacode": "C000012",
+				"區域": "板橋區",
+				"address": "中山路、漢生東路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000012"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.469114, 25.017215]
+			},
+			"properties": {
+				"cctv_id": 10,
+				"areacode": "C000013",
+				"區域": "板橋區",
+				"address": "縣民大道二段198號中央分隔島",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000013"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.464632, 25.013888]
+			},
+			"properties": {
+				"cctv_id": 11,
+				"areacode": "C000014",
+				"區域": "板橋區",
+				"address": "縣民大道、板橋火車站前(新府路往前60公尺中央分隔島)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000014"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.376299, 24.931392]
+			},
+			"properties": {
+				"cctv_id": 12,
+				"areacode": "C000016",
+				"區域": "三峽區",
+				"address": "介壽路、中正路(復興路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000016"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.352725, 24.945787]
+			},
+			"properties": {
+				"cctv_id": 13,
+				"areacode": "C000017",
+				"區域": "鶯歌區",
+				"address": "三鶯大橋、文化路交接處",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000017"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.361428, 24.938579]
+			},
+			"properties": {
+				"cctv_id": 14,
+				"areacode": "C000018",
+				"區域": "三峽區",
+				"address": "復興路、三鶯交流道(高速公路東側)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000018"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46296, 25.032998]
+			},
+			"properties": {
+				"cctv_id": 15,
+				"areacode": "C000019",
+				"區域": "板橋區",
+				"address": "大漢橋(環河路上方)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000019"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.473477, 25.015711]
+			},
+			"properties": {
+				"cctv_id": 16,
+				"areacode": "C000020",
+				"區域": "板橋區",
+				"address": "民生路、中山路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000020"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.477188, 25.011917]
+			},
+			"properties": {
+				"cctv_id": 17,
+				"areacode": "C000021",
+				"區域": "板橋區",
+				"address": "台64線、板新路上方",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000021"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.479246, 25.018772]
+			},
+			"properties": {
+				"cctv_id": 18,
+				"areacode": "C000022",
+				"區域": "板橋區",
+				"address": "中山路、三民路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000022"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.456104, 25.03059]
+			},
+			"properties": {
+				"cctv_id": 19,
+				"areacode": "C000023",
+				"區域": "板橋區",
+				"address": "新海橋(堤防上方)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000023"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.450033, 24.993511]
+			},
+			"properties": {
+				"cctv_id": 20,
+				"areacode": "C000024",
+				"區域": "板橋區",
+				"address": "四川路、中央路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000024"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.466005, 25.01202]
+			},
+			"properties": {
+				"cctv_id": 21,
+				"areacode": "C000025",
+				"區域": "板橋區",
+				"address": "中山路一段、158巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000025"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486658, 25.056459]
+			},
+			"properties": {
+				"cctv_id": 22,
+				"areacode": "C000026",
+				"區域": "三重區",
+				"address": "重新路、重陽路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000026"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.460526, 25.039081]
+			},
+			"properties": {
+				"cctv_id": 23,
+				"areacode": "C000027",
+				"區域": "新莊區",
+				"address": "中正路、思源路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000027"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490362, 24.994198]
+			},
+			"properties": {
+				"cctv_id": 24,
+				"areacode": "C000028",
+				"區域": "中和區",
+				"address": "台64線於錦和路上方",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000028"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.484056, 25.005103]
+			},
+			"properties": {
+				"cctv_id": 25,
+				"areacode": "C000029",
+				"區域": "中和區",
+				"address": "中正路、中山路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000029"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485109, 24.996335]
+			},
+			"properties": {
+				"cctv_id": 26,
+				"areacode": "C000030",
+				"區域": "中和區",
+				"address": "中正路、連城路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000030"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495411, 25.007818]
+			},
+			"properties": {
+				"cctv_id": 27,
+				"areacode": "C000031",
+				"區域": "中和區",
+				"address": "華中橋(環河西路上方)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000031"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.368497, 25.065982]
+			},
+			"properties": {
+				"cctv_id": 28,
+				"areacode": "C000032",
+				"區域": "林口區",
+				"address": "文化一路、林口交流道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000032"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.551606, 24.978978]
+			},
+			"properties": {
+				"cctv_id": 29,
+				"areacode": "C000033",
+				"區域": "新店區",
+				"address": "寶橋路235巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000033"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.468443, 25.023203]
+			},
+			"properties": {
+				"cctv_id": 30,
+				"areacode": "C000034",
+				"區域": "板橋區",
+				"address": "文化路2段、民生路2段(文化路中央分隔島)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000034"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.537139, 24.961448]
+			},
+			"properties": {
+				"cctv_id": 31,
+				"areacode": "C000036",
+				"區域": "三重區",
+				"address": "重陽路2段46號前中央分隔島",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000036"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486167, 25.02255]
+			},
+			"properties": {
+				"cctv_id": 32,
+				"areacode": "C000037",
+				"區域": "板橋區",
+				"address": "光復橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000037"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.397676, 25.143997]
+			},
+			"properties": {
+				"cctv_id": 33,
+				"areacode": "C000038",
+				"區域": "八里區",
+				"address": "中華路、商港路口(2)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000038"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.470233, 25.01983]
+			},
+			"properties": {
+				"cctv_id": 34,
+				"areacode": "C000039",
+				"區域": "板橋區",
+				"address": "台64線萬板路上方",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000039"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485117, 24.996033]
+			},
+			"properties": {
+				"cctv_id": 35,
+				"areacode": "C000040",
+				"區域": "中和區",
+				"address": "中正路、連城路2",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000040"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516745, 24.979429]
+			},
+			"properties": {
+				"cctv_id": 36,
+				"areacode": "C000041",
+				"區域": "新店區",
+				"address": "安和路、中安大橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000041"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.533292, 24.991722]
+			},
+			"properties": {
+				"cctv_id": 37,
+				"areacode": "C000042",
+				"區域": "新店區",
+				"address": "環河路、中正路(大鵬華城)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000042"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.539064, 24.961962]
+			},
+			"properties": {
+				"cctv_id": 38,
+				"areacode": "C000043",
+				"區域": "新店區",
+				"address": "北新路1段、安康路1段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000043"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.541251, 24.982946]
+			},
+			"properties": {
+				"cctv_id": 39,
+				"areacode": "C000044",
+				"區域": "新店區",
+				"address": "北新路1段、民權路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000044"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.541563, 24.967879]
+			},
+			"properties": {
+				"cctv_id": 40,
+				"areacode": "C000045",
+				"區域": "新店區",
+				"address": "北新路88巷前",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000045"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.621554, 25.054932]
+			},
+			"properties": {
+				"cctv_id": 41,
+				"areacode": "C000046",
+				"區域": "汐止區",
+				"address": "大同路1段、民權街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000046"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.63084, 25.054949]
+			},
+			"properties": {
+				"cctv_id": 42,
+				"areacode": "C000047",
+				"區域": "汐止區",
+				"address": "大同路1段、南陽街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000047"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.63328, 25.056958]
+			},
+			"properties": {
+				"cctv_id": 43,
+				"areacode": "C000048",
+				"區域": "汐止區",
+				"address": "大同路1段、新台五路1段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000048"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.637046, 25.055824]
+			},
+			"properties": {
+				"cctv_id": 44,
+				"areacode": "C000049",
+				"區域": "汐止區",
+				"address": "汐止新台五路1段、國道三號下匝道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000049"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.645384, 25.060418]
+			},
+			"properties": {
+				"cctv_id": 45,
+				"areacode": "C000050",
+				"區域": "汐止區",
+				"address": "汐止新台五路1段、國道三號上匝道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000050"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.656112, 25.066811]
+			},
+			"properties": {
+				"cctv_id": 46,
+				"areacode": "C000051",
+				"區域": "汐止區",
+				"address": "大同路2段、汐萬路1段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000051"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.472173, 25.029787]
+			},
+			"properties": {
+				"cctv_id": 47,
+				"areacode": "C000052",
+				"區域": "板橋區",
+				"address": "文化路2段、雙十路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000052"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.463035, 25.016232]
+			},
+			"properties": {
+				"cctv_id": 48,
+				"areacode": "C000053",
+				"區域": "板橋區",
+				"address": "文化路、新站路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000053"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.469901, 25.020297]
+			},
+			"properties": {
+				"cctv_id": 49,
+				"areacode": "C000054",
+				"區域": "板橋區",
+				"address": "民生路、萬板路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000054"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.514534, 25.010331]
+			},
+			"properties": {
+				"cctv_id": 50,
+				"areacode": "C000056",
+				"區域": "永和區",
+				"address": "永和路、中山路(中正路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000056"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516898, 25.007383]
+			},
+			"properties": {
+				"cctv_id": 51,
+				"areacode": "C000057",
+				"區域": "永和區",
+				"address": "中正路、福和路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000057"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.517175, 25.004174]
+			},
+			"properties": {
+				"cctv_id": 52,
+				"areacode": "C000058",
+				"區域": "永和區",
+				"address": "中正路、永貞路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000058"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.498281, 24.993552]
+			},
+			"properties": {
+				"cctv_id": 53,
+				"areacode": "C000060",
+				"區域": "中和區",
+				"address": "板南路、中正路161巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000060"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.507914, 24.986458]
+			},
+			"properties": {
+				"cctv_id": 54,
+				"areacode": "C000061",
+				"區域": "中和區",
+				"address": "南山路、興南路一段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000061"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.500091, 24.993498]
+			},
+			"properties": {
+				"cctv_id": 55,
+				"areacode": "C000064",
+				"區域": "中和區",
+				"address": "中正路、中興街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000064"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.493268, 25.061019]
+			},
+			"properties": {
+				"cctv_id": 56,
+				"areacode": "C000066",
+				"區域": "三重區",
+				"address": "重新路、中正南路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000066"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.502551, 25.063927]
+			},
+			"properties": {
+				"cctv_id": 57,
+				"areacode": "C000067",
+				"區域": "三重區",
+				"address": "重新路、福德北路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000067"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490559, 25.068649]
+			},
+			"properties": {
+				"cctv_id": 58,
+				"areacode": "C000068",
+				"區域": "三重區",
+				"address": "自強路、重陽路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000068"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.493383, 25.055812]
+			},
+			"properties": {
+				"cctv_id": 59,
+				"areacode": "C000069",
+				"區域": "三重區",
+				"address": "重安街、中正南路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000069"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486762, 25.061335]
+			},
+			"properties": {
+				"cctv_id": 60,
+				"areacode": "C000070",
+				"區域": "三重區",
+				"address": "重陽路、中山路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000070"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.468363, 25.076387]
+			},
+			"properties": {
+				"cctv_id": 61,
+				"areacode": "C000071",
+				"區域": "蘆洲區",
+				"address": "蘆洲區永安南路、中山一路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000071"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.479692, 25.080682]
+			},
+			"properties": {
+				"cctv_id": 62,
+				"areacode": "C000072",
+				"區域": "蘆洲區",
+				"address": "蘆洲區集賢路、三和路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000072"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.476088, 25.081683]
+			},
+			"properties": {
+				"cctv_id": 63,
+				"areacode": "C000073",
+				"區域": "蘆洲區",
+				"address": "蘆洲區三民路、中山一路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000073"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.502877, 25.07439]
+			},
+			"properties": {
+				"cctv_id": 64,
+				"areacode": "C000074",
+				"區域": "三重區",
+				"address": "新北環快，三重龍門路與環快匝道交會處",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000074"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.484424, 25.047172]
+			},
+			"properties": {
+				"cctv_id": 65,
+				"areacode": "C000075",
+				"區域": "三重區",
+				"address": "新北環快，南下3K+880門架",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000075"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.480651, 25.039789]
+			},
+			"properties": {
+				"cctv_id": 66,
+				"areacode": "C000076",
+				"區域": "板橋區",
+				"address": "新北環快，南下5K+232板橋匝道分流處",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000076"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3972477, 25.1540246]
+			},
+			"properties": {
+				"cctv_id": 67,
+				"areacode": "C000077",
+				"區域": "八里區",
+				"address": "臨港大道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000077"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.493425, 25.051622]
+			},
+			"properties": {
+				"cctv_id": 68,
+				"areacode": "C000079",
+				"區域": "三重區",
+				"address": "新北環快，北上2K+900中興橋上環快主線",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000079"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.488866, 25.047848]
+			},
+			"properties": {
+				"cctv_id": 69,
+				"areacode": "C000080",
+				"區域": "三重區",
+				"address": "新北環快，北上3K+420台北中興橋匝道分流",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000080"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.479864, 25.042254]
+			},
+			"properties": {
+				"cctv_id": 70,
+				"areacode": "C000082",
+				"區域": "板橋區",
+				"address": "新北環快，北上5K+015(重翠橋中段)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000082"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48437, 25.025923]
+			},
+			"properties": {
+				"cctv_id": 71,
+				"areacode": "C000083",
+				"區域": "板橋區",
+				"address": "新北環快，北上6K+871萬華匝道分流處",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000083"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487095, 25.01589]
+			},
+			"properties": {
+				"cctv_id": 72,
+				"areacode": "C000084",
+				"區域": "中和區",
+				"address": "新北環快，北上8K+240中和光環路上匝道口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000084"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.496342, 25.054172]
+			},
+			"properties": {
+				"cctv_id": 73,
+				"areacode": "C000085",
+				"區域": "三重區",
+				"address": "三重區環河南路重安街口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000085"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490561, 25.04934]
+			},
+			"properties": {
+				"cctv_id": 74,
+				"areacode": "C000086",
+				"區域": "三重區",
+				"address": "新北環快，三重成功路平面匝道口(雙向)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000086"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.503199, 25.061525]
+			},
+			"properties": {
+				"cctv_id": 75,
+				"areacode": "C000087",
+				"區域": "三重區",
+				"address": "新北環快，福德南路平面匝道口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000087"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.481323, 25.036612]
+			},
+			"properties": {
+				"cctv_id": 76,
+				"areacode": "C000088",
+				"區域": "板橋區",
+				"address": "新北環快，北上5K+733",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000088"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.481516, 25.037238]
+			},
+			"properties": {
+				"cctv_id": 77,
+				"areacode": "C000089",
+				"區域": "板橋區",
+				"address": "新北環快，南下5K+733台64上主線匝道口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000089"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485829, 25.021004]
+			},
+			"properties": {
+				"cctv_id": 78,
+				"areacode": "C000091",
+				"區域": "板橋區",
+				"address": "新北環快，北上7K+388",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000091"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.411235, 25.165047]
+			},
+			"properties": {
+				"cctv_id": 79,
+				"areacode": "C000092",
+				"區域": "八里區",
+				"address": "挖子尾街與忠孝路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000092"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487052, 25.046998]
+			},
+			"properties": {
+				"cctv_id": 80,
+				"areacode": "C000094",
+				"區域": "三重區",
+				"address": "新北環快，北上3K+791.5三重成功路匝道分流",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000094"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.481489, 25.047555]
+			},
+			"properties": {
+				"cctv_id": 81,
+				"areacode": "C000095",
+				"區域": "三重區",
+				"address": "新北環快，南下斜張橋北側(人行步道)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000095"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48297, 25.047175]
+			},
+			"properties": {
+				"cctv_id": 82,
+				"areacode": "C000096",
+				"區域": "三重區",
+				"address": "新北環快，北上4K+080",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000096"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.481805, 25.047137]
+			},
+			"properties": {
+				"cctv_id": 83,
+				"areacode": "C000097",
+				"區域": "三重區",
+				"address": "新北環快，北上斜張橋南側(人行步道)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000097"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.481805, 25.047302]
+			},
+			"properties": {
+				"cctv_id": 84,
+				"areacode": "C000098",
+				"區域": "三重區",
+				"address": "新北環快，南下4K+168.5新莊匝道分流處(往新莊環河路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000098"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.437099, 24.975419]
+			},
+			"properties": {
+				"cctv_id": 85,
+				"areacode": "C000099",
+				"區域": "土城區",
+				"address": "土城區城林路、亞洲路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000099"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.452055, 25.000834]
+			},
+			"properties": {
+				"cctv_id": 86,
+				"areacode": "C000100",
+				"區域": "板橋區",
+				"address": "台65線7.6K處",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000100"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.442327, 25.054348]
+			},
+			"properties": {
+				"cctv_id": 87,
+				"areacode": "C000102",
+				"區域": "新莊區",
+				"address": "新莊區中環路、中原路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000102"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.442361, 25.046176]
+			},
+			"properties": {
+				"cctv_id": 88,
+				"areacode": "C000103",
+				"區域": "新莊區",
+				"address": "新莊區中環路、新泰路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000103"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.442311, 25.049141]
+			},
+			"properties": {
+				"cctv_id": 89,
+				"areacode": "C000104",
+				"區域": "新莊區",
+				"address": "新莊區中環路、幸福路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000104"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.441916, 25.034137]
+			},
+			"properties": {
+				"cctv_id": 90,
+				"areacode": "C000105",
+				"區域": "新莊區",
+				"address": "新莊區中環路、中正路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000105"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.429527, 25.040164]
+			},
+			"properties": {
+				"cctv_id": 91,
+				"areacode": "C000106",
+				"區域": "泰山區",
+				"address": "泰山區中山路、貴子路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000106"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438563, 25.052346]
+			},
+			"properties": {
+				"cctv_id": 92,
+				"areacode": "C000107",
+				"區域": "泰山區",
+				"address": "泰山區中山路、泰林路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000107"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.448911, 25.035346]
+			},
+			"properties": {
+				"cctv_id": 93,
+				"areacode": "C000108",
+				"區域": "新莊區",
+				"address": "新莊區中正路、新泰路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000108"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.451999, 25.054497]
+			},
+			"properties": {
+				"cctv_id": 94,
+				"areacode": "C000109",
+				"區域": "新莊區",
+				"address": "新莊區中華路、中原路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000109"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.452562, 25.049178]
+			},
+			"properties": {
+				"cctv_id": 95,
+				"areacode": "C000110",
+				"區域": "新莊區",
+				"address": "新莊區中華路、幸福路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000110"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.496627, 25.054302]
+			},
+			"properties": {
+				"cctv_id": 96,
+				"areacode": "C000111",
+				"區域": "三重區",
+				"address": "新北環快，忠孝橋三重端上方",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000111"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.459951, 25.060471]
+			},
+			"properties": {
+				"cctv_id": 97,
+				"areacode": "C000112",
+				"區域": "新莊區",
+				"address": "新莊區台1高架，中山路思源路口(中山路東向上方)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000112"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.434763, 25.046975]
+			},
+			"properties": {
+				"cctv_id": 98,
+				"areacode": "C000113",
+				"區域": "泰山區",
+				"address": "泰山區台1高架，民生路上、下匝道口(既有F型鋼構)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000113"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.439081, 25.06353]
+			},
+			"properties": {
+				"cctv_id": 99,
+				"areacode": "C000114",
+				"區域": "泰山區",
+				"address": "泰山台65線泰山交流道(西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000114"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.451682, 25.000875]
+			},
+			"properties": {
+				"cctv_id": 100,
+				"areacode": "C000115",
+				"區域": "板橋區",
+				"address": "板橋區環河路、湳仔橋(環河路170號前號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000115"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.452948, 25.003719]
+			},
+			"properties": {
+				"cctv_id": 101,
+				"areacode": "C000116",
+				"區域": "板橋區",
+				"address": "板橋區 縣民大道、板城路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000116"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.505188, 25.013466]
+			},
+			"properties": {
+				"cctv_id": 102,
+				"areacode": "C000118",
+				"區域": "永和區",
+				"address": "永和區環河西路二段與新生路210巷口(平面)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000118"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.505211, 25.013536]
+			},
+			"properties": {
+				"cctv_id": 103,
+				"areacode": "C000119",
+				"區域": "永和區",
+				"address": "永和區環河西路二段與新生路210巷口(高架)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000119"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511528, 25.017572]
+			},
+			"properties": {
+				"cctv_id": 104,
+				"areacode": "C000120",
+				"區域": "永和區",
+				"address": "永和區環河西路一段95巷4弄3號前(高架)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000120"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51266, 25.018063]
+			},
+			"properties": {
+				"cctv_id": 105,
+				"areacode": "C000121",
+				"區域": "永和區",
+				"address": "永和區環河西路一段85巷前(高架)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000121"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516686, 25.017768]
+			},
+			"properties": {
+				"cctv_id": 106,
+				"areacode": "C000122",
+				"區域": "永和區",
+				"address": "永和區環河東路一段、光復路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000122"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.521529, 25.014273]
+			},
+			"properties": {
+				"cctv_id": 107,
+				"areacode": "C000123",
+				"區域": "永和區",
+				"address": "永和區環河東路一段170號、竹林路75巷4弄口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000123"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.524094, 25.010496]
+			},
+			"properties": {
+				"cctv_id": 108,
+				"areacode": "C000124",
+				"區域": "永和區",
+				"address": "永和區環河東路二段、豫溪街191巷口(往新店側)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000124"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.524057, 25.010484]
+			},
+			"properties": {
+				"cctv_id": 109,
+				"areacode": "C000125",
+				"區域": "永和區",
+				"address": "永和區環河東路二段、豫溪街191巷口(往板橋側)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000125"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.529005, 25.000512]
+			},
+			"properties": {
+				"cctv_id": 110,
+				"areacode": "C000127",
+				"區域": "永和區",
+				"address": "永和區環河東路三段、民樂街39巷口(天琴大樓)往新店側",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000127"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449, 24.97905]
+			},
+			"properties": {
+				"cctv_id": 111,
+				"areacode": "C000129",
+				"區域": "新店區",
+				"address": "中興路三段與寶中路口(中央分隔島)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000129"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5454, 24.97838]
+			},
+			"properties": {
+				"cctv_id": 112,
+				"areacode": "C000130",
+				"區域": "新店區",
+				"address": "中興路三段與寶橋路口(往台北路側)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000130"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.435241, 24.995423]
+			},
+			"properties": {
+				"cctv_id": 113,
+				"areacode": "C000131",
+				"區域": "板橋區",
+				"address": "板橋區浮洲橋上(路燈桿上)，環河道路上方近樹林",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000131"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.478724, 25.01134]
+			},
+			"properties": {
+				"cctv_id": 114,
+				"areacode": "C000132",
+				"區域": "板橋區",
+				"address": "板橋區三民路與中正路(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000132"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.47838, 25.024018]
+			},
+			"properties": {
+				"cctv_id": 115,
+				"areacode": "C000133",
+				"區域": "板橋區",
+				"address": "板橋區三民路、縣民大道(華翠橋)(南側路燈桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000133"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.525265, 25.009123]
+			},
+			"properties": {
+				"cctv_id": 116,
+				"areacode": "C000135",
+				"區域": "永和區",
+				"address": "永和區永福橋上(環河東路三段上方)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000135"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.527282, 25.005973]
+			},
+			"properties": {
+				"cctv_id": 117,
+				"areacode": "C000136",
+				"區域": "永和區",
+				"address": "永和區福和橋上(環河東路三段上方)(路燈桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000136"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.522819, 25.003406]
+			},
+			"properties": {
+				"cctv_id": 118,
+				"areacode": "C000137",
+				"區域": "永和區",
+				"address": "永和區林森路、永元路口(南側號誌門架上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000137"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.520781, 25.007801]
+			},
+			"properties": {
+				"cctv_id": 119,
+				"areacode": "C000138",
+				"區域": "永和區",
+				"address": "永和區福和路與永貞路口(南側警用桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000138"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.527196, 24.990142]
+			},
+			"properties": {
+				"cctv_id": 120,
+				"areacode": "C000139",
+				"區域": "中和區",
+				"address": "中和區景平路、環河東路口(秀朗橋門架上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000139"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.472415, 25.006517]
+			},
+			"properties": {
+				"cctv_id": 121,
+				"areacode": "C000140",
+				"區域": "中和區",
+				"address": "中和區中山路、漢民路口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000140"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.499516, 25.002647]
+			},
+			"properties": {
+				"cctv_id": 122,
+				"areacode": "C000141",
+				"區域": "中和區",
+				"address": "中和區中山路、中和路口(中山路行人陸橋上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000141"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.508142, 24.999614]
+			},
+			"properties": {
+				"cctv_id": 123,
+				"areacode": "C000142",
+				"區域": "中和區",
+				"address": "中和區中和路、景安路口(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000142"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48795, 25.004806]
+			},
+			"properties": {
+				"cctv_id": 124,
+				"areacode": "C000143",
+				"區域": "中和區",
+				"address": "中和區中山路、建一路口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000143"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490525, 24.994304]
+			},
+			"properties": {
+				"cctv_id": 125,
+				"areacode": "C000144",
+				"區域": "中和區",
+				"address": "中和區中正路、錦和路口(東側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000144"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.432718, 24.966393]
+			},
+			"properties": {
+				"cctv_id": 126,
+				"areacode": "C000145",
+				"區域": "土城區",
+				"address": "土城區台65高架上(中央路三段與大安路口上方)(西側路燈桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000145"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438126, 24.968513]
+			},
+			"properties": {
+				"cctv_id": 127,
+				"areacode": "C000146",
+				"區域": "土城區",
+				"address": "土城區中央路三段、中華路二段口(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000146"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.533741, 24.988022]
+			},
+			"properties": {
+				"cctv_id": 128,
+				"areacode": "C000147",
+				"區域": "新店區",
+				"address": "新店區中正路、復興路口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000147"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.542015, 24.986748]
+			},
+			"properties": {
+				"cctv_id": 129,
+				"areacode": "C000148",
+				"區域": "新店區",
+				"address": "新店區中興路三段、寶慶街口(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000148"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54739, 24.971859]
+			},
+			"properties": {
+				"cctv_id": 130,
+				"areacode": "C000149",
+				"區域": "新店區",
+				"address": "新店區中興路二段、國道3號匝道口(東側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000149"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.542982, 24.973512]
+			},
+			"properties": {
+				"cctv_id": 131,
+				"areacode": "C000150",
+				"區域": "新店區",
+				"address": "新店區北新路二段、寶橋路口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000150"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.529106, 24.972287]
+			},
+			"properties": {
+				"cctv_id": 132,
+				"areacode": "C000151",
+				"區域": "新店區",
+				"address": "新店區環河路、中央路口(東側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000151"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.523636, 24.97786]
+			},
+			"properties": {
+				"cctv_id": 133,
+				"areacode": "C000152",
+				"區域": "新店區",
+				"address": "新店區環河路、中山路口(南側號誌門架上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000152"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.530599, 24.961082]
+			},
+			"properties": {
+				"cctv_id": 134,
+				"areacode": "C000153",
+				"區域": "新店區",
+				"address": "新店區安康路一段、華城路口(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000153"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54754, 24.952046]
+			},
+			"properties": {
+				"cctv_id": 135,
+				"areacode": "C000154",
+				"區域": "新店區",
+				"address": "新店區北宜路二段、新烏路口(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000154"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.540942, 24.984706]
+			},
+			"properties": {
+				"cctv_id": 136,
+				"areacode": "C000155",
+				"區域": "新店區",
+				"address": "新店區北新路三段、順安街口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000155"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.516918, 24.964078]
+			},
+			"properties": {
+				"cctv_id": 137,
+				"areacode": "C000156",
+				"區域": "新店區",
+				"address": "新店區安康路二段與安和路一段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000156"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.599961, 25.002122]
+			},
+			"properties": {
+				"cctv_id": 138,
+				"areacode": "C000157",
+				"區域": "深坑區",
+				"address": "深坑區新光路二段、文山路三段(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000157"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.646921, 25.008549]
+			},
+			"properties": {
+				"cctv_id": 139,
+				"areacode": "C000158",
+				"區域": "石碇區",
+				"address": "文山路一段與國五南下匝道口(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000158"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.455461, 25.121949]
+			},
+			"properties": {
+				"cctv_id": 140,
+				"areacode": "C000159",
+				"區域": "八里區",
+				"address": "八里區龍米路一段65巷口(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000159"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.459629, 25.140341]
+			},
+			"properties": {
+				"cctv_id": 141,
+				"areacode": "C000160",
+				"區域": "淡水區",
+				"address": "淡水區民權路、民富街口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000160"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.414093, 25.023279]
+			},
+			"properties": {
+				"cctv_id": 142,
+				"areacode": "C000162",
+				"區域": "新莊區",
+				"address": "新莊區中山路、中正路口(南側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000162"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.443104, 25.057553]
+			},
+			"properties": {
+				"cctv_id": 143,
+				"areacode": "C000163",
+				"區域": "新莊區",
+				"address": "新莊區新五路、中山路口(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000163"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.496117, 25.0828]
+			},
+			"properties": {
+				"cctv_id": 144,
+				"areacode": "C000164",
+				"區域": "三重區",
+				"address": "三重區自強路五段、仁義街口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000164"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.497908, 25.062276]
+			},
+			"properties": {
+				"cctv_id": 145,
+				"areacode": "C000165",
+				"區域": "三重區",
+				"address": "三重區重新路二段、正義北路口(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000165"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.491407, 25.089165]
+			},
+			"properties": {
+				"cctv_id": 146,
+				"areacode": "C000166",
+				"區域": "三重區",
+				"address": "三重區集賢路、三信路口(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000166"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.459274, 25.095966]
+			},
+			"properties": {
+				"cctv_id": 147,
+				"areacode": "C000167",
+				"區域": "蘆洲區",
+				"address": "蘆洲區成蘆大橋環河分流點(西側路燈桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000167"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.44037, 25.082179]
+			},
+			"properties": {
+				"cctv_id": 148,
+				"areacode": "C000168",
+				"區域": "五股區",
+				"address": "五股區中興路四段、新五路二段(北側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000168"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.355428, 25.066047]
+			},
+			"properties": {
+				"cctv_id": 149,
+				"areacode": "C000169",
+				"區域": "林口區",
+				"address": "林口區文化北路一段、八德一路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000169"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.357758, 24.939876]
+			},
+			"properties": {
+				"cctv_id": 150,
+				"areacode": "C000170",
+				"區域": "三峽區",
+				"address": "三峽區復興路、國3南下匝道口(西側號誌桿上)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000170"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.656929, 25.063695]
+			},
+			"properties": {
+				"cctv_id": 151,
+				"areacode": "C000171",
+				"區域": "汐止區",
+				"address": "汐止區新台五路一段、新興路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000171"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.463057, 25.124679]
+			},
+			"properties": {
+				"cctv_id": 152,
+				"areacode": "C000172",
+				"區域": "淡水區",
+				"address": "淡水區民權路、自強路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000172"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.450498, 25.1648]
+			},
+			"properties": {
+				"cctv_id": 153,
+				"areacode": "C000174",
+				"區域": "淡水區",
+				"address": "淡水區中正東路一段3巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000174"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457974, 25.157947]
+			},
+			"properties": {
+				"cctv_id": 154,
+				"areacode": "C000175",
+				"區域": "淡水區",
+				"address": "淡水區淡金路中正東路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000175"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.444565, 25.169121]
+			},
+			"properties": {
+				"cctv_id": 155,
+				"areacode": "C000176",
+				"區域": "淡水區",
+				"address": "淡水區中正路、中山路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438821, 25.172931]
+			},
+			"properties": {
+				"cctv_id": 156,
+				"areacode": "C000178",
+				"區域": "淡水區",
+				"address": "淡水區文化路、新生街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000178"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.446215, 25.197602]
+			},
+			"properties": {
+				"cctv_id": 157,
+				"areacode": "C000179",
+				"區域": "淡水區",
+				"address": "淡水區中山北路三段、淡金路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000179"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.365747, 25.06906]
+			},
+			"properties": {
+				"cctv_id": 158,
+				"areacode": "C000184",
+				"區域": "林口區",
+				"address": "林口區文化二路忠孝二路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000184"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.362308, 25.069989]
+			},
+			"properties": {
+				"cctv_id": 159,
+				"areacode": "C000185",
+				"區域": "林口區",
+				"address": "林口區文化三路一段191巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000185"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.356657, 24.940456]
+			},
+			"properties": {
+				"cctv_id": 160,
+				"areacode": "C000186",
+				"區域": "三峽區",
+				"address": "三峽區復興路隆恩街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000186"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.368245, 24.938951]
+			},
+			"properties": {
+				"cctv_id": 161,
+				"areacode": "C000187",
+				"區域": "三峽區",
+				"address": "三峽區復興路、學成路(國慶路口)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000187"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438694, 24.975245]
+			},
+			"properties": {
+				"cctv_id": 162,
+				"areacode": "C000188",
+				"區域": "土城區",
+				"address": "土城區城林路中華路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000188"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.656913, 25.067086]
+			},
+			"properties": {
+				"cctv_id": 163,
+				"areacode": "C000189",
+				"區域": "汐止區",
+				"address": "汐止區大同路禮門街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000189"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.392728, 25.150365]
+			},
+			"properties": {
+				"cctv_id": 164,
+				"areacode": "C000192",
+				"區域": "八里區",
+				"address": "八里區臨港路商港路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000192"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.397604, 25.144049]
+			},
+			"properties": {
+				"cctv_id": 165,
+				"areacode": "C000193",
+				"區域": "八里區",
+				"address": "八里區中華路商港路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000193"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.489306, 25.058405]
+			},
+			"properties": {
+				"cctv_id": 166,
+				"areacode": "C000194",
+				"區域": "三重區",
+				"address": "三重區台1高架，重新路上分路燈桿",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000194"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.464651, 25.061214]
+			},
+			"properties": {
+				"cctv_id": 167,
+				"areacode": "C000195",
+				"區域": "新莊區",
+				"address": "新莊區台1高架，化成路上方門架",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000195"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.446693, 25.059476]
+			},
+			"properties": {
+				"cctv_id": 168,
+				"areacode": "C000196",
+				"區域": "新莊區",
+				"address": "新莊區台1高架，中信街上方門架",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000196"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.452856, 25.10378]
+			},
+			"properties": {
+				"cctv_id": 169,
+				"areacode": "C000197",
+				"區域": "五股區",
+				"address": "五股區成泰路洲后路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000197"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438031, 25.065548]
+			},
+			"properties": {
+				"cctv_id": 170,
+				"areacode": "C000199",
+				"區域": "五股區",
+				"address": "五股區台65往南,O K門架",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000199"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.479614, 25.061489]
+			},
+			"properties": {
+				"cctv_id": 171,
+				"areacode": "C000200",
+				"區域": "三重區",
+				"address": "三重區台1高架,疏洪東路上方門架",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000200"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.497028, 25.061864]
+			},
+			"properties": {
+				"cctv_id": 172,
+				"areacode": "C000201",
+				"區域": "三重區",
+				"address": "三重區重新路2段92號(CMS共構)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000201"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487342, 25.051648]
+			},
+			"properties": {
+				"cctv_id": 173,
+				"areacode": "C000202",
+				"區域": "三重區",
+				"address": "三重區成功路106-2號(CMS共構)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000202"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486273, 25.055126]
+			},
+			"properties": {
+				"cctv_id": 174,
+				"areacode": "C000203",
+				"區域": "三重區",
+				"address": "三重區重新路四段184巷(CMS共構)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000203"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.712583, 24.93647]
+			},
+			"properties": {
+				"cctv_id": 175,
+				"areacode": "C000204",
+				"區域": "坪林區",
+				"address": "坪林區國中路1號旁(消防隊)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000204"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.712555, 24.941763]
+			},
+			"properties": {
+				"cctv_id": 176,
+				"areacode": "C000205",
+				"區域": "坪林區",
+				"address": "坪林區國中路坪林管制站前(往國5)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000205"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.477986, 25.037936]
+			},
+			"properties": {
+				"cctv_id": 177,
+				"areacode": "C000206",
+				"區域": "板橋區",
+				"address": "板橋區新北環快、環河西路匝道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000206"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.460015, 25.039883]
+			},
+			"properties": {
+				"cctv_id": 178,
+				"areacode": "C000207",
+				"區域": "新莊區",
+				"address": "新莊區中正路、思源路(大漢橋匝道)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000207"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457919, 25.006919]
+			},
+			"properties": {
+				"cctv_id": 179,
+				"areacode": "C000208",
+				"區域": "板橋區",
+				"address": "板橋區縣民大道、館前西路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000208"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.460276, 25.008394]
+			},
+			"properties": {
+				"cctv_id": 180,
+				"areacode": "C000209",
+				"區域": "板橋區",
+				"address": "板橋區中山路、重慶路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000209"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45487, 25.003997]
+			},
+			"properties": {
+				"cctv_id": 181,
+				"areacode": "C000210",
+				"區域": "板橋區",
+				"address": "板橋區縣民大道、南雅南路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000210"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.439304, 25.063715]
+			},
+			"properties": {
+				"cctv_id": 182,
+				"areacode": "C000211",
+				"區域": "泰山區",
+				"address": "泰山台65線泰山交流道(東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000211"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.441485, 25.059432]
+			},
+			"properties": {
+				"cctv_id": 183,
+				"areacode": "C000212",
+				"區域": "泰山區",
+				"address": "泰山區新五路台1高架入口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000212"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49806, 25.25976]
+			},
+			"properties": {
+				"cctv_id": 184,
+				"areacode": "C000213",
+				"區域": "三芝區",
+				"address": "三芝區淡金公路(台2)、淡金路1段(往三芝市區)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000213"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51989, 25.28247]
+			},
+			"properties": {
+				"cctv_id": 185,
+				"areacode": "C000214",
+				"區域": "三芝區",
+				"address": "三芝區台2、白沙灣風景區(約台2 22K+800處)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000214"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46552, 25.02717]
+			},
+			"properties": {
+				"cctv_id": 186,
+				"areacode": "C000215",
+				"區域": "板橋區",
+				"address": "板橋區民生路三段119巷(號誌控制器旁L桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000215"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.39022, 24.93502]
+			},
+			"properties": {
+				"cctv_id": 187,
+				"areacode": "C000216",
+				"區域": "三峽區",
+				"address": "三峽區介壽路二段(台3)、龍埔路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000216"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.41047, 24.98075]
+			},
+			"properties": {
+				"cctv_id": 188,
+				"areacode": "C000217",
+				"區域": "樹林區",
+				"address": "樹林區中山路二段、中華路(大安路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000217"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.40599, 24.96197]
+			},
+			"properties": {
+				"cctv_id": 189,
+				"areacode": "C000218",
+				"區域": "樹林區",
+				"address": "樹林區柑園街一段、柑園二橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000218"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.40465, 24.96929]
+			},
+			"properties": {
+				"cctv_id": 190,
+				"areacode": "C000219",
+				"區域": "樹林區",
+				"address": "樹林區環河路、柑園二橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000219"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.38692, 24.95127]
+			},
+			"properties": {
+				"cctv_id": 191,
+				"areacode": "C000220",
+				"區域": "樹林區",
+				"address": "樹林區佳園路三段、學府路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000220"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.35232, 24.95065]
+			},
+			"properties": {
+				"cctv_id": 192,
+				"areacode": "C000221",
+				"區域": "鶯歌區",
+				"address": "鶯歌區文化路、尖山路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000221"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.34027, 24.95819]
+			},
+			"properties": {
+				"cctv_id": 193,
+				"areacode": "C000222",
+				"區域": "鶯歌區",
+				"address": "鶯歌區中山高架橋、西湖街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000222"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54078, 24.98679]
+			},
+			"properties": {
+				"cctv_id": 194,
+				"areacode": "C000223",
+				"區域": "新店區",
+				"address": "新店區順安街、寶慶街(景美橋)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000223"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.33083, 24.96756]
+			},
+			"properties": {
+				"cctv_id": 195,
+				"areacode": "C000224",
+				"區域": "鶯歌區",
+				"address": "鶯歌區鶯桃路、福德一路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000224"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.82209, 25.12097]
+			},
+			"properties": {
+				"cctv_id": 196,
+				"areacode": "C000226",
+				"區域": "瑞芳區",
+				"address": "瑞芳區台2、台2丁",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000226"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.81948, 25.12263]
+			},
+			"properties": {
+				"cctv_id": 197,
+				"areacode": "C000227",
+				"區域": "瑞芳區",
+				"address": "瑞芳區台2、台62出口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000227"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.86383, 25.12248]
+			},
+			"properties": {
+				"cctv_id": 198,
+				"areacode": "C000228",
+				"區域": "瑞芳區",
+				"address": "瑞芳區台2、北34",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000228"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.80933, 25.10745]
+			},
+			"properties": {
+				"cctv_id": 199,
+				"areacode": "C000230",
+				"區域": "瑞芳區",
+				"address": "瑞芳區台2丁、明燈路二段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000230"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.79647, 25.11002]
+			},
+			"properties": {
+				"cctv_id": 200,
+				"areacode": "C000231",
+				"區域": "瑞芳區",
+				"address": "瑞芳區台2丁、台62瑞芳一匝道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000231"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.84514, 25.10995]
+			},
+			"properties": {
+				"cctv_id": 201,
+				"areacode": "C000232",
+				"區域": "瑞芳區",
+				"address": "瑞芳區瑞金公路、基山街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000232"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.84285, 25.1096]
+			},
+			"properties": {
+				"cctv_id": 202,
+				"areacode": "C000233",
+				"區域": "瑞芳區",
+				"address": "瑞芳區瑞金公路、北35",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000233"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.387454, 24.952058]
+			},
+			"properties": {
+				"cctv_id": 203,
+				"areacode": "C000234",
+				"區域": "樹林區",
+				"address": "樹林區佳園路三段66巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000234"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.93325, 25.019]
+			},
+			"properties": {
+				"cctv_id": 204,
+				"areacode": "C000235",
+				"區域": "貢寮區",
+				"address": "貢寮區興隆街(台2)、下雙溪街(台2丙)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000235"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.64168, 25.2174]
+			},
+			"properties": {
+				"cctv_id": 205,
+				"areacode": "C000236",
+				"區域": "金山區",
+				"address": "金山區環金路(台2)、中山路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000236"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.63183, 25.22131]
+			},
+			"properties": {
+				"cctv_id": 206,
+				"areacode": "C000237",
+				"區域": "金山區",
+				"address": "金山區台2、台2甲",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000237"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.330467, 24.968084]
+			},
+			"properties": {
+				"cctv_id": 207,
+				"areacode": "C000238",
+				"區域": "鶯歌區",
+				"address": "鶯歌區鶯桃路、鶯歌路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000238"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.68828, 25.18229]
+			},
+			"properties": {
+				"cctv_id": 208,
+				"areacode": "C000239",
+				"區域": "萬里區",
+				"address": "萬里區台2、瑪鍊路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000239"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.67429, 25.20137]
+			},
+			"properties": {
+				"cctv_id": 209,
+				"areacode": "C000240",
+				"區域": "萬里區",
+				"address": "萬里區台2、玉田路(近明光港測)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000240"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6877, 25.1756]
+			},
+			"properties": {
+				"cctv_id": 210,
+				"areacode": "C000241",
+				"區域": "萬里區",
+				"address": "萬里區景美路、中福路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000241"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.68323, 25.18758]
+			},
+			"properties": {
+				"cctv_id": 211,
+				"areacode": "C000242",
+				"區域": "萬里區",
+				"address": "萬里區台2、玉田路(近翡翠灣飯店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000242"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.64019, 25.05645]
+			},
+			"properties": {
+				"cctv_id": 212,
+				"areacode": "C000243",
+				"區域": "汐止區",
+				"address": "汐止區新台五路、國3北上出口匝道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000243"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6367, 25.0625]
+			},
+			"properties": {
+				"cctv_id": 213,
+				"areacode": "C000244",
+				"區域": "汐止區",
+				"address": "汐止區工建路、新社后橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000244"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53715, 24.96133]
+			},
+			"properties": {
+				"cctv_id": 214,
+				"areacode": "C000246",
+				"區域": "新店區",
+				"address": "新店區環河路、安康路(碧潭大橋)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000246"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.525775, 24.990329]
+			},
+			"properties": {
+				"cctv_id": 215,
+				"areacode": "C000247",
+				"區域": "中和區",
+				"address": "中和景平路、成功路(中央分隔島)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000247"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45381, 25.10215]
+			},
+			"properties": {
+				"cctv_id": 216,
+				"areacode": "C000248",
+				"區域": "五股區",
+				"address": "五股區成蘆橋(防汛道路正上方)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000248"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49922, 25.08453]
+			},
+			"properties": {
+				"cctv_id": 217,
+				"areacode": "C000249",
+				"區域": "三重區",
+				"address": "三重區重陽橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000249"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45507, 25.08147]
+			},
+			"properties": {
+				"cctv_id": 218,
+				"areacode": "C000250",
+				"區域": "蘆洲區",
+				"address": "蘆洲區永安大橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000250"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.42884, 24.98072]
+			},
+			"properties": {
+				"cctv_id": 219,
+				"areacode": "C000251",
+				"區域": "板橋區",
+				"address": "板橋區城林橋(板橋端)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000251"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45507, 25.12433]
+			},
+			"properties": {
+				"cctv_id": 220,
+				"areacode": "C000252",
+				"區域": "八里區",
+				"address": "八里區關渡大橋(八里龍米路上方門架)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000252"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.43363, 25.03244]
+			},
+			"properties": {
+				"cctv_id": 221,
+				"areacode": "C000253",
+				"區域": "新莊區",
+				"address": "中正路、建國一路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000253"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48147, 25.03585]
+			},
+			"properties": {
+				"cctv_id": 222,
+				"areacode": "C000254",
+				"區域": "板橋區",
+				"address": "板橋區新北環快華江橋上方",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000254"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.43551, 25.0018]
+			},
+			"properties": {
+				"cctv_id": 223,
+				"areacode": "C000255",
+				"區域": "新莊區",
+				"address": "新莊區環河道路、21號越堤道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000255"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48676, 25.06148]
+			},
+			"properties": {
+				"cctv_id": 224,
+				"areacode": "C000256",
+				"區域": "三重區",
+				"address": "三重區台1高架與重陽路上方",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000256"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.47969, 25.04956]
+			},
+			"properties": {
+				"cctv_id": 225,
+				"areacode": "C000257",
+				"區域": "三重區",
+				"address": "三重區重新橋(新莊端)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000257"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.42005, 25.06487]
+			},
+			"properties": {
+				"cctv_id": 226,
+				"areacode": "C000258",
+				"區域": "泰山區",
+				"address": "泰山區泰林路二段、大科路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000258"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.434934, 25.027186]
+			},
+			"properties": {
+				"cctv_id": 227,
+				"areacode": "C000259",
+				"區域": "新莊區",
+				"address": "新莊區建國一路138號(新莊好市多)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000259"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.437103, 25.074076]
+			},
+			"properties": {
+				"cctv_id": 228,
+				"areacode": "C000261",
+				"區域": "五股區",
+				"address": "五股區新五路、自強路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000261"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438498, 25.078554]
+			},
+			"properties": {
+				"cctv_id": 229,
+				"areacode": "C000262",
+				"區域": "五股區",
+				"address": "五股區新五路、蓬萊路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000262"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.37757, 25.07448]
+			},
+			"properties": {
+				"cctv_id": 230,
+				"areacode": "C000263",
+				"區域": "林口區",
+				"address": "林口區文化一路1段、仁愛路2段路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000263"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3712, 25.06961]
+			},
+			"properties": {
+				"cctv_id": 231,
+				"areacode": "C000264",
+				"區域": "林口區",
+				"address": "林口區文化一路1段、忠孝路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000264"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.35703, 25.076588]
+			},
+			"properties": {
+				"cctv_id": 232,
+				"areacode": "C000265",
+				"區域": "林口區",
+				"address": "林口區南勢街、南勢六街口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000265"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.36122, 25.0656]
+			},
+			"properties": {
+				"cctv_id": 233,
+				"areacode": "C000266",
+				"區域": "林口區",
+				"address": "林口區文化三路1段、八德路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000266"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3967, 25.07816]
+			},
+			"properties": {
+				"cctv_id": 234,
+				"areacode": "C000267",
+				"區域": "林口區",
+				"address": "林口區中山路、粉寮路1段路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000267"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.47215, 25.06205]
+			},
+			"properties": {
+				"cctv_id": 235,
+				"areacode": "C000268",
+				"區域": "三重區",
+				"address": "三重區光復路2段、疏洪西路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000268"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45342, 25.10692]
+			},
+			"properties": {
+				"cctv_id": 236,
+				"areacode": "C000269",
+				"區域": "五股區",
+				"address": "五股區成泰路4段22巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000269"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49335, 25.00609]
+			},
+			"properties": {
+				"cctv_id": 237,
+				"areacode": "C000270",
+				"區域": "中和區",
+				"address": "中和區橋和路、中山路2段332巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000270"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457389, 25.081527]
+			},
+			"properties": {
+				"cctv_id": 238,
+				"areacode": "C000271",
+				"區域": "蘆洲區",
+				"address": "蘆洲區中原路永安南路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000271"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547006, 24.976025]
+			},
+			"properties": {
+				"cctv_id": 239,
+				"areacode": "C000272",
+				"區域": "新店區",
+				"address": "新店區寶橋路、中興路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000272"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.376164, 24.949691]
+			},
+			"properties": {
+				"cctv_id": 240,
+				"areacode": "C000273",
+				"區域": "樹林區",
+				"address": "樹林區學府路、大義路口(三鶯二橋)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000273"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.37462, 24.95231]
+			},
+			"properties": {
+				"cctv_id": 241,
+				"areacode": "C000274",
+				"區域": "樹林區",
+				"address": "樹林區大義路柑園路二段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000274"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.63914, 25.05958]
+			},
+			"properties": {
+				"cctv_id": 242,
+				"areacode": "C000275",
+				"區域": "汐止區",
+				"address": "汐止區大同路、同興路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000275"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.64027, 25.0601]
+			},
+			"properties": {
+				"cctv_id": 243,
+				"areacode": "C000276",
+				"區域": "汐止區",
+				"address": "汐止區大同路、樟樹二路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000276"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.64235, 25.06104]
+			},
+			"properties": {
+				"cctv_id": 244,
+				"areacode": "C000277",
+				"區域": "汐止區",
+				"address": "汐止區大同路、樟樹一路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000277"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.65162, 25.06397]
+			},
+			"properties": {
+				"cctv_id": 245,
+				"areacode": "C000278",
+				"區域": "汐止區",
+				"address": "汐止區大同路、南興路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000278"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.66225, 25.06934]
+			},
+			"properties": {
+				"cctv_id": 246,
+				"areacode": "C000279",
+				"區域": "汐止區",
+				"address": "汐止區大同路、信義路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000279"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.66526, 25.07322]
+			},
+			"properties": {
+				"cctv_id": 247,
+				"areacode": "C000280",
+				"區域": "汐止區",
+				"address": "汐止區大同路、鄉長路一段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000280"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6738, 25.07547]
+			},
+			"properties": {
+				"cctv_id": 248,
+				"areacode": "C000281",
+				"區域": "汐止區",
+				"address": "汐止區大同路、中國貨櫃",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000281"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.68059, 25.07117]
+			},
+			"properties": {
+				"cctv_id": 249,
+				"areacode": "C000282",
+				"區域": "汐止區",
+				"address": "汐止區大同路、汐平路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000282"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.68363, 25.07348]
+			},
+			"properties": {
+				"cctv_id": 250,
+				"areacode": "C000283",
+				"區域": "汐止區",
+				"address": "汐止區大同路、保新街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000283"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49238, 25.08989]
+			},
+			"properties": {
+				"cctv_id": 251,
+				"areacode": "C000284",
+				"區域": "三重區",
+				"address": "三重區環河路、三信路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000284"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.44413, 25.09008]
+			},
+			"properties": {
+				"cctv_id": 252,
+				"areacode": "C000285",
+				"區域": "五股區",
+				"address": "五股區成泰路、新五路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000285"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.36592, 24.91004]
+			},
+			"properties": {
+				"cctv_id": 253,
+				"areacode": "C000286",
+				"區域": "三峽區",
+				"address": "三峽區台3線、台7乙",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000286"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.366955, 24.91916]
+			},
+			"properties": {
+				"cctv_id": 254,
+				"areacode": "C000287",
+				"區域": "三峽區",
+				"address": "三峽區中正路、中園街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000287"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45961, 25.14762]
+			},
+			"properties": {
+				"cctv_id": 255,
+				"areacode": "C000288",
+				"區域": "淡水區",
+				"address": "中正東路二段143巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000288"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.36603, 24.93565]
+			},
+			"properties": {
+				"cctv_id": 256,
+				"areacode": "C000289",
+				"區域": "三峽區",
+				"address": "三峽區文化路、中山路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000289"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.478566, 25.023895]
+			},
+			"properties": {
+				"cctv_id": 257,
+				"areacode": "C000290",
+				"區域": "板橋區",
+				"address": "板橋區華翠橋(三民路上方路南向燈桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000290"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.463155, 25.00939]
+			},
+			"properties": {
+				"cctv_id": 258,
+				"areacode": "C000291",
+				"區域": "板橋區",
+				"address": "板橋區民權路、民族路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000291"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.475561, 25.005852]
+			},
+			"properties": {
+				"cctv_id": 259,
+				"areacode": "C000292",
+				"區域": "中和區",
+				"address": "中和區中山路民有街口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000292"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.465559, 25.014526]
+			},
+			"properties": {
+				"cctv_id": 260,
+				"areacode": "C000293",
+				"區域": "板橋區",
+				"address": "板橋區縣民大道新站路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000293"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.467868, 25.016205]
+			},
+			"properties": {
+				"cctv_id": 261,
+				"areacode": "C000294",
+				"區域": "板橋區",
+				"address": "板橋區縣民大道板新路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000294"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.8293258751, 25.1108397118]
+			},
+			"properties": {
+				"cctv_id": 262,
+				"areacode": "C000295",
+				"區域": "瑞芳區",
+				"address": "瑞芳區瑞金公路、9號停車場",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000295"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45945, 25.151447]
+			},
+			"properties": {
+				"cctv_id": 263,
+				"areacode": "C000296",
+				"區域": "淡水區",
+				"address": "淡水區中正東路2段105巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000296"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45937, 25.153368]
+			},
+			"properties": {
+				"cctv_id": 264,
+				"areacode": "C000297",
+				"區域": "淡水區",
+				"address": "淡水區中正東路八勢路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000297"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.454928, 25.159485]
+			},
+			"properties": {
+				"cctv_id": 265,
+				"areacode": "C000298",
+				"區域": "淡水區",
+				"address": "淡水區中正東路、坪頂路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000298"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45989, 25.137734]
+			},
+			"properties": {
+				"cctv_id": 266,
+				"areacode": "C000299",
+				"區域": "淡水區",
+				"address": "淡水區民生路、民權路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000299"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.453687, 25.03647]
+			},
+			"properties": {
+				"cctv_id": 267,
+				"areacode": "C000300",
+				"區域": "新莊區",
+				"address": "新莊區中正路、大觀街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000300"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.460023, 25.060581]
+			},
+			"properties": {
+				"cctv_id": 268,
+				"areacode": "C000301",
+				"區域": "新莊區",
+				"address": "新莊區新北大道、思源路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000301"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.423935, 24.987104]
+			},
+			"properties": {
+				"cctv_id": 269,
+				"areacode": "C000302",
+				"區域": "樹林區",
+				"address": "樹林區博愛街240號、瑋鋒科技前",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000302"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4411867, 25.033448]
+			},
+			"properties": {
+				"cctv_id": 270,
+				"areacode": "C000303",
+				"區域": "新莊區",
+				"address": "新莊區中正路、新樹路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000303"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.619583, 25.050443]
+			},
+			"properties": {
+				"cctv_id": 271,
+				"areacode": "C000304",
+				"區域": "汐止區",
+				"address": "汐止區民權路一段、橫科路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000304"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.408929, 25.018208]
+			},
+			"properties": {
+				"cctv_id": 272,
+				"areacode": "C000310",
+				"區域": "樹林區",
+				"address": "樹林區中正路、三龍街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000310"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.459685, 25.082544]
+			},
+			"properties": {
+				"cctv_id": 273,
+				"areacode": "C000311",
+				"區域": "蘆洲區",
+				"address": "蘆洲區中原路、長安街口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000311"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.428174, 25.175618]
+			},
+			"properties": {
+				"cctv_id": 274,
+				"areacode": "C000312",
+				"區域": "淡水區",
+				"address": "淡水區中正路、中正路1段8巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000312"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504821, 24.957994]
+			},
+			"properties": {
+				"cctv_id": 275,
+				"areacode": "C000313",
+				"區域": "新店區",
+				"address": "新店區安康路與車子路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000313"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.515073, 24.957884]
+			},
+			"properties": {
+				"cctv_id": 276,
+				"areacode": "C000314",
+				"區域": "新店區",
+				"address": "新店區安一路安捷路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000314"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.509552, 24.954855]
+			},
+			"properties": {
+				"cctv_id": 277,
+				"areacode": "C000315",
+				"區域": "新店區",
+				"address": "新店區安一路安忠路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000315"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504678, 24.954473]
+			},
+			"properties": {
+				"cctv_id": 278,
+				"areacode": "C000316",
+				"區域": "新店區",
+				"address": "新店區安一路車子路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000316"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.494184, 24.954056]
+			},
+			"properties": {
+				"cctv_id": 279,
+				"areacode": "C000317",
+				"區域": "新店區",
+				"address": "新店區安康路2段安祥路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000317"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495908, 24.952448]
+			},
+			"properties": {
+				"cctv_id": 280,
+				"areacode": "C000318",
+				"區域": "新店區",
+				"address": "新店區安一路安祥路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000318"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.46194, 25.013156]
+			},
+			"properties": {
+				"cctv_id": 281,
+				"areacode": "C000319",
+				"區域": "板橋區",
+				"address": "站前路、板橋公車站",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000319"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.446884, 24.993941]
+			},
+			"properties": {
+				"cctv_id": 282,
+				"areacode": "C000320",
+				"區域": "板橋區",
+				"address": "橋頭路(第十河川局門口)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000320"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51997, 24.963864]
+			},
+			"properties": {
+				"cctv_id": 283,
+				"areacode": "C000321",
+				"區域": "新店區",
+				"address": "新店區安一路安康路1段口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000321"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.494057, 24.951057]
+			},
+			"properties": {
+				"cctv_id": 284,
+				"areacode": "C000322",
+				"區域": "新店區",
+				"address": "新店區安一路玫瑰路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000322"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504444, 24.959805]
+			},
+			"properties": {
+				"cctv_id": 285,
+				"areacode": "C000323",
+				"區域": "新店區",
+				"address": "新店區車子路祥和路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000323"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511107, 24.963822]
+			},
+			"properties": {
+				"cctv_id": 286,
+				"areacode": "C000325",
+				"區域": "新店區",
+				"address": "新店區祥和路安德街60巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000325"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.51517, 24.977487]
+			},
+			"properties": {
+				"cctv_id": 287,
+				"areacode": "C000326",
+				"區域": "新店區",
+				"address": "新店區祥和路安興路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000326"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.364176, 25.065779]
+			},
+			"properties": {
+				"cctv_id": 288,
+				"areacode": "C000329",
+				"區域": "林口區",
+				"address": "林口區文化二路、八德路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000329"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.623926, 25.0549]
+			},
+			"properties": {
+				"cctv_id": 289,
+				"areacode": "C000330",
+				"區域": "汐止區",
+				"address": "北山大橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000330"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.375523, 25.072735]
+			},
+			"properties": {
+				"cctv_id": 290,
+				"areacode": "C000339",
+				"區域": "林口區",
+				"address": "文化一路、麗園一街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000339"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.357505, 25.076291]
+			},
+			"properties": {
+				"cctv_id": 291,
+				"areacode": "C000347",
+				"區域": "林口區",
+				"address": "南勢街、南勢四街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000347"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.464238, 25.017583]
+			},
+			"properties": {
+				"cctv_id": 292,
+				"areacode": "C000375",
+				"區域": "板橋區",
+				"address": "文化路、漢生東路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000375"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.417681, 25.185719]
+			},
+			"properties": {
+				"cctv_id": 293,
+				"areacode": "C000376",
+				"區域": "淡水區",
+				"address": "觀海路、中正路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000376"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.419423, 25.183078]
+			},
+			"properties": {
+				"cctv_id": 294,
+				"areacode": "C000377",
+				"區域": "淡水區",
+				"address": "中正路二段、50巷",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000377"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.45016, 25.058881]
+			},
+			"properties": {
+				"cctv_id": 295,
+				"areacode": "C000378",
+				"區域": "新莊區",
+				"address": "中央路、中港路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000378"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.446833, 25.059333]
+			},
+			"properties": {
+				"cctv_id": 296,
+				"areacode": "C000379",
+				"區域": "泰山區",
+				"address": "新北大道、中信街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000379"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.447568, 25.057907]
+			},
+			"properties": {
+				"cctv_id": 297,
+				"areacode": "C000381",
+				"區域": "新莊區",
+				"address": "中央路、中信街",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000381"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.451135, 25.060358]
+			},
+			"properties": {
+				"cctv_id": 298,
+				"areacode": "C000382",
+				"區域": "新莊區",
+				"address": "新北大道、中華路三段",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000382"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.459743, 25.054389]
+			},
+			"properties": {
+				"cctv_id": 299,
+				"areacode": "C000383",
+				"區域": "新莊區",
+				"address": "思源路、中原路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000383"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.468175, 25.035122]
+			},
+			"properties": {
+				"cctv_id": 300,
+				"areacode": "C000384",
+				"區域": "鶯歌區",
+				"address": "西湖路、大湖路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000384"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.460039, 25.012661]
+			},
+			"properties": {
+				"cctv_id": 301,
+				"areacode": "C000387",
+				"區域": "板橋區",
+				"address": "文化路與民權路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000387"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.461882, 25.011289]
+			},
+			"properties": {
+				"cctv_id": 302,
+				"areacode": "C000388",
+				"區域": "板橋區",
+				"address": "縣民大道與民權路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000388"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.632848, 25.064267]
+			},
+			"properties": {
+				"cctv_id": 303,
+				"areacode": "C000389",
+				"區域": "汐止區",
+				"address": "中興路、福德一路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000389"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.617787, 25.06756]
+			},
+			"properties": {
+				"cctv_id": 304,
+				"areacode": "C000390",
+				"區域": "汐止區",
+				"address": "康寧街、中油加油站",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000390"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511713, 24.991533]
+			},
+			"properties": {
+				"cctv_id": 305,
+				"areacode": "C000397",
+				"區域": "中和區",
+				"address": "景新街與安樂路2巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000397"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.625034, 25.066973]
+			},
+			"properties": {
+				"cctv_id": 306,
+				"areacode": "C000398",
+				"區域": "汐止區",
+				"address": "康寧街與明峰街口(西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000398"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.619345, 25.066422]
+			},
+			"properties": {
+				"cctv_id": 307,
+				"areacode": "C000399",
+				"區域": "汐止區",
+				"address": "康寧街與汐湖二橋",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000399"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457411, 25.081513]
+			},
+			"properties": {
+				"cctv_id": 308,
+				"areacode": "C000400",
+				"區域": "蘆洲區",
+				"address": "環河西路四段、華江七路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000400"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.42793, 25.186063]
+			},
+			"properties": {
+				"cctv_id": 309,
+				"areacode": "C000401",
+				"區域": "淡水區",
+				"address": "淡水區新民隧道-北上隧道內",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000401"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.427812, 25.186174]
+			},
+			"properties": {
+				"cctv_id": 310,
+				"areacode": "C000402",
+				"區域": "淡水區",
+				"address": "淡水區新民隧道-南下隧道內",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000402"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.533243, 24.991833]
+			},
+			"properties": {
+				"cctv_id": 311,
+				"areacode": "C000404",
+				"區域": "新店區",
+				"address": "中正路、環河路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000404"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.633264, 25.057039]
+			},
+			"properties": {
+				"cctv_id": 312,
+				"areacode": "C000405",
+				"區域": "汐止區",
+				"address": "新台五路、大同路(大同路西側14米直立桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000405"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.63351, 25.057148]
+			},
+			"properties": {
+				"cctv_id": 313,
+				"areacode": "C000406",
+				"區域": "汐止區",
+				"address": "新台五路、大同路(大同路東側6米T字桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000406"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.634144, 25.056915]
+			},
+			"properties": {
+				"cctv_id": 314,
+				"areacode": "C000407",
+				"區域": "汐止區",
+				"address": "新台五路、大同路(新台五路右轉大同路車道6米直立桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000407"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.656902, 25.067204]
+			},
+			"properties": {
+				"cctv_id": 315,
+				"areacode": "C000408",
+				"區域": "汐止交流道",
+				"address": "大同路禮門街口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000408"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.371153, 25.069664]
+			},
+			"properties": {
+				"cctv_id": 316,
+				"areacode": "C000409",
+				"區域": "林口交流道",
+				"address": "文化一路忠孝路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000409"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.438819, 25.064483]
+			},
+			"properties": {
+				"cctv_id": 317,
+				"areacode": "C000410",
+				"區域": "五股交流道",
+				"address": "新五路楓江路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000410"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.492728, 25.073217]
+			},
+			"properties": {
+				"cctv_id": 318,
+				"areacode": "C000411",
+				"區域": "三重交流道",
+				"address": "三和路三和路125巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000411"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.493967, 25.072618]
+			},
+			"properties": {
+				"cctv_id": 319,
+				"areacode": "C000412",
+				"區域": "三重交流道",
+				"address": "三和路重陽路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000412"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.484323, 25.004889]
+			},
+			"properties": {
+				"cctv_id": 320,
+				"areacode": "C000413",
+				"區域": "中和交流道",
+				"address": "中和中山路中正路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000413"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485475, 24.994714]
+			},
+			"properties": {
+				"cctv_id": 321,
+				"areacode": "C000414",
+				"區域": "中和交流道",
+				"address": "中和中正路中正路637巷口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000414"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.432497, 24.965359]
+			},
+			"properties": {
+				"cctv_id": 322,
+				"areacode": "C000415",
+				"區域": "土城交流道",
+				"address": "土城中央路大安路口",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000415"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4580106024, 25.1580529152]
+			},
+			"properties": {
+				"cctv_id": 323,
+				"areacode": "C000416",
+				"區域": "淡水區",
+				"address": "中正東路二段/中正東路一段(近端號誌桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000416"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4579276465, 25.1581788705]
+			},
+			"properties": {
+				"cctv_id": 324,
+				"areacode": "C000417",
+				"區域": "淡水區",
+				"address": "淡金路/中正東路二段(近端號誌桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000417"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.458213, 25.157893]
+			},
+			"properties": {
+				"cctv_id": 325,
+				"areacode": "C000418",
+				"區域": "淡水區",
+				"address": "中正東路一段/中正東路二段(近端號誌桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000418"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4593171045, 25.1560386463]
+			},
+			"properties": {
+				"cctv_id": 326,
+				"areacode": "C000419",
+				"區域": "淡水區",
+				"address": "中正東路二段/八勢一街(遠端號誌桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000419"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4554813832, 25.1592219005]
+			},
+			"properties": {
+				"cctv_id": 327,
+				"areacode": "C000420",
+				"區域": "淡水區",
+				"address": "中正東路一段/中正東路一段127巷(近端號誌桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000420"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4562694007, 25.161135318]
+			},
+			"properties": {
+				"cctv_id": 328,
+				"areacode": "C000421",
+				"區域": "淡水區",
+				"address": "淡金路/坪頂路(遠端號誌桿)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000421"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457427, 25.081561]
+			},
+			"properties": {
+				"cctv_id": 329,
+				"areacode": "C000422",
+				"區域": "蘆洲區",
+				"address": "永安大橋-中原路往西",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000422"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457373, 25.081506]
+			},
+			"properties": {
+				"cctv_id": 330,
+				"areacode": "C000423",
+				"區域": "蘆洲區",
+				"address": "永安大橋-無名路往東",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000423"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457451, 25.0815279]
+			},
+			"properties": {
+				"cctv_id": 331,
+				"areacode": "C000424",
+				"區域": "蘆洲區",
+				"address": "永安大橋-永安大橋往南",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000424"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457373, 25.081506]
+			},
+			"properties": {
+				"cctv_id": 332,
+				"areacode": "C000425",
+				"區域": "蘆洲區",
+				"address": "永安大橋-永安南路往南",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000425"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.457451, 25.0815279]
+			},
+			"properties": {
+				"cctv_id": 333,
+				"areacode": "C000426",
+				"區域": "蘆洲區",
+				"address": "永安大橋-永安南路往北",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000426"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.453198, 25.180826]
+			},
+			"properties": {
+				"cctv_id": 334,
+				"areacode": "C000427",
+				"區域": "淡水區",
+				"address": "淡金路、北新路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000427"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.623411, 25.054904]
+			},
+			"properties": {
+				"cctv_id": 335,
+				"areacode": "C000428",
+				"區域": "汐止區",
+				"address": "北山大橋與環東分流處",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000428"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487408, 25.013809]
+			},
+			"properties": {
+				"cctv_id": 336,
+				"areacode": "C000429",
+				"區域": "中和區",
+				"address": "環河西路三段/光環路二段(環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000429"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487571, 25.013819]
+			},
+			"properties": {
+				"cctv_id": 337,
+				"areacode": "C000430",
+				"區域": "中和區",
+				"address": "環河西路三段/光環路二段(光環路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000430"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487392, 25.013768]
+			},
+			"properties": {
+				"cctv_id": 338,
+				"areacode": "C000431",
+				"區域": "中和區",
+				"address": "環河西路三段/光環路二段(環河西路往新莊)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000431"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.487547, 25.013814]
+			},
+			"properties": {
+				"cctv_id": 339,
+				"areacode": "C000432",
+				"區域": "中和區",
+				"address": "環河西路三段/光環路二段(球機-上匝道)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000432"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.488069, 25.012248]
+			},
+			"properties": {
+				"cctv_id": 340,
+				"areacode": "C000433",
+				"區域": "中和區",
+				"address": "環河西路三段/中原五街(環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000433"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.488052, 25.012246]
+			},
+			"properties": {
+				"cctv_id": 341,
+				"areacode": "C000434",
+				"區域": "中和區",
+				"address": "環河西路三段/中原五街(中原五街)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000434"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.489067, 25.010733]
+			},
+			"properties": {
+				"cctv_id": 342,
+				"areacode": "C000435",
+				"區域": "中和區",
+				"address": "環河西路三段/中原三街(環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000435"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.489039, 25.010746]
+			},
+			"properties": {
+				"cctv_id": 343,
+				"areacode": "C000436",
+				"區域": "中和區",
+				"address": "環河西路三段/中原三街(中原三街)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000436"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.489033, 25.010781]
+			},
+			"properties": {
+				"cctv_id": 344,
+				"areacode": "C000437",
+				"區域": "中和區",
+				"address": "環河西路三段/中原三街(球機-環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000437"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.49089, 25.008848]
+			},
+			"properties": {
+				"cctv_id": 345,
+				"areacode": "C000438",
+				"區域": "中和區",
+				"address": "環河西路三段/中原一街(環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000438"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490874, 25.008845]
+			},
+			"properties": {
+				"cctv_id": 346,
+				"areacode": "C000439",
+				"區域": "中和區",
+				"address": "環河西路三段/中原一街(中原三街)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000439"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.492179, 25.008302]
+			},
+			"properties": {
+				"cctv_id": 347,
+				"areacode": "C000440",
+				"區域": "中和區",
+				"address": "環河西路三段/中原街(環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000440"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.492101, 25.008171]
+			},
+			"properties": {
+				"cctv_id": 348,
+				"areacode": "C000441",
+				"區域": "中和區",
+				"address": "環河西路三段/中原街(中原街)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000441"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.492082, 25.008199]
+			},
+			"properties": {
+				"cctv_id": 349,
+				"areacode": "C000442",
+				"區域": "中和區",
+				"address": "環河西路三段/中原街(環河西路往新莊)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000442"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495568, 25.00783]
+			},
+			"properties": {
+				"cctv_id": 350,
+				"areacode": "C000443",
+				"區域": "中和區",
+				"address": "環河西路三段/華中橋下(環河西路往新店-近控制器)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000443"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495534, 25.007637]
+			},
+			"properties": {
+				"cctv_id": 351,
+				"areacode": "C000444",
+				"區域": "中和區",
+				"address": "環河西路三段/華中橋下(永和路89巷)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000444"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495191, 25.007627]
+			},
+			"properties": {
+				"cctv_id": 352,
+				"areacode": "C000445",
+				"區域": "中和區",
+				"address": "環河西路三段/華中橋下(立業路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000445"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495151, 25.007684]
+			},
+			"properties": {
+				"cctv_id": 353,
+				"areacode": "C000446",
+				"區域": "中和區",
+				"address": "環河西路三段/華中橋下(環河西路往新莊)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000446"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.495209, 25.007807]
+			},
+			"properties": {
+				"cctv_id": 354,
+				"areacode": "C000447",
+				"區域": "中和區",
+				"address": "環河西路三段/華中橋下(環河西路往新店)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000447"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485772, 25.012831]
+			},
+			"properties": {
+				"cctv_id": 355,
+				"areacode": "C000448",
+				"區域": "中和區",
+				"address": "中原二街/中原六街(中原二街-北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000448"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485807, 25.012821]
+			},
+			"properties": {
+				"cctv_id": 356,
+				"areacode": "C000449",
+				"區域": "中和區",
+				"address": "中原二街/中原六街(中原六街-東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000449"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485794, 25.012793]
+			},
+			"properties": {
+				"cctv_id": 357,
+				"areacode": "C000450",
+				"區域": "中和區",
+				"address": "中原二街/中原六街(中原二街-南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000450"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.485769, 25.012796]
+			},
+			"properties": {
+				"cctv_id": 358,
+				"areacode": "C000451",
+				"區域": "中和區",
+				"address": "中原二街/中原六街(中原六街-西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000451"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486886, 25.011569]
+			},
+			"properties": {
+				"cctv_id": 359,
+				"areacode": "C000452",
+				"區域": "中和區",
+				"address": "中原二街/中原五街(中原二街-北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000452"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486944, 25.011552]
+			},
+			"properties": {
+				"cctv_id": 360,
+				"areacode": "C000453",
+				"區域": "中和區",
+				"address": "中原二街/中原五街(中原五街-東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000453"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486925, 25.011514]
+			},
+			"properties": {
+				"cctv_id": 361,
+				"areacode": "C000454",
+				"區域": "中和區",
+				"address": "中原二街/中原五街(中原二街-南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000454"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.486886, 25.011516]
+			},
+			"properties": {
+				"cctv_id": 362,
+				"areacode": "C000455",
+				"區域": "中和區",
+				"address": "中原二街/中原五街(中原五街-西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000455"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.48492, 25.011742]
+			},
+			"properties": {
+				"cctv_id": 363,
+				"areacode": "C000456",
+				"區域": "中和區",
+				"address": "中原街/中板路(中原街-北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000456"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.484945, 25.011709]
+			},
+			"properties": {
+				"cctv_id": 364,
+				"areacode": "C000457",
+				"區域": "中和區",
+				"address": "中原街/中板路(中原街-南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000457"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.484851, 25.011657]
+			},
+			"properties": {
+				"cctv_id": 365,
+				"areacode": "C000458",
+				"區域": "中和區",
+				"address": "中原街/中板路(中板路5巷)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000458"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.484819, 25.01168]
+			},
+			"properties": {
+				"cctv_id": 366,
+				"areacode": "C000459",
+				"區域": "中和區",
+				"address": "中原街/中板路(中板路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000459"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490419, 25.008236]
+			},
+			"properties": {
+				"cctv_id": 367,
+				"areacode": "C000460",
+				"區域": "中和區",
+				"address": "中原街/立業路(中原一街)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000460"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490582, 25.008091]
+			},
+			"properties": {
+				"cctv_id": 368,
+				"areacode": "C000461",
+				"區域": "中和區",
+				"address": "中原街/立業路(中原街-東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000461"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490545, 25.008067]
+			},
+			"properties": {
+				"cctv_id": 369,
+				"areacode": "C000462",
+				"區域": "中和區",
+				"address": "中原街/立業路(立業路)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000462"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.490322, 25.008203]
+			},
+			"properties": {
+				"cctv_id": 370,
+				"areacode": "C000463",
+				"區域": "中和區",
+				"address": "中原街/立業路(中原街-西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000463"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547628, 24.951978]
+			},
+			"properties": {
+				"cctv_id": 371,
+				"areacode": "C000464",
+				"區域": "新店區",
+				"address": "北宜路 新烏路(北宜路-往東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000464"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547628, 24.951978]
+			},
+			"properties": {
+				"cctv_id": 372,
+				"areacode": "C000465",
+				"區域": "新店區",
+				"address": "北宜路 新烏路(北宜路-往西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000465"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547422, 24.951884]
+			},
+			"properties": {
+				"cctv_id": 373,
+				"areacode": "C000466",
+				"區域": "新店區",
+				"address": "北宜路 新烏路(新烏路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000466"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.549331, 24.951474]
+			},
+			"properties": {
+				"cctv_id": 374,
+				"areacode": "C000467",
+				"區域": "新店區",
+				"address": "北宜路 北宜路56巷(北宜路-往西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000467"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.543858, 24.953093]
+			},
+			"properties": {
+				"cctv_id": 375,
+				"areacode": "C000468",
+				"區域": "新店區",
+				"address": "北宜路一段往東方向路段(北宜路-往東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000468"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54624, 24.950004]
+			},
+			"properties": {
+				"cctv_id": 376,
+				"areacode": "C000469",
+				"區域": "新店區",
+				"address": "新烏路 新烏路26巷 新烏路46巷(新烏路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000469"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.503464, 24.993472]
+			},
+			"properties": {
+				"cctv_id": 377,
+				"areacode": "C000470",
+				"區域": "中和區",
+				"address": "中正路 景平路 南山路(景平路-往東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000470"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50899, 24.993124]
+			},
+			"properties": {
+				"cctv_id": 378,
+				"areacode": "C000471",
+				"區域": "中和區",
+				"address": "景平路 安平路(景平路-往西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000471"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.505346, 24.995112]
+			},
+			"properties": {
+				"cctv_id": 379,
+				"areacode": "C000472",
+				"區域": "中和區",
+				"address": "景安路 明義街(景安路-往南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000472"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504603, 24.992136]
+			},
+			"properties": {
+				"cctv_id": 380,
+				"areacode": "C000473",
+				"區域": "中和區",
+				"address": "景安路 板南路 和平街(景安路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000473"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.503955, 24.992457]
+			},
+			"properties": {
+				"cctv_id": 381,
+				"areacode": "C000474",
+				"區域": "中和區",
+				"address": "南山路 板南路(南山路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000474"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504582, 24.991745]
+			},
+			"properties": {
+				"cctv_id": 382,
+				"areacode": "C000475",
+				"區域": "中和區",
+				"address": "景安路 南山路(南山路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000475"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.505206, 24.991116]
+			},
+			"properties": {
+				"cctv_id": 383,
+				"areacode": "C000476",
+				"區域": "中和區",
+				"address": "南山路 捷運路(南山路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000476"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.503741, 24.990275]
+			},
+			"properties": {
+				"cctv_id": 384,
+				"areacode": "C000477",
+				"區域": "中和區",
+				"address": "景安路 復興路(景安路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000477"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.502381, 24.994594]
+			},
+			"properties": {
+				"cctv_id": 385,
+				"areacode": "C000478",
+				"區域": "中和區",
+				"address": "景平路 景平路385巷(景平路-往南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000478"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510517, 24.992672]
+			},
+			"properties": {
+				"cctv_id": 386,
+				"areacode": "C000479",
+				"區域": "中和區",
+				"address": "景平路 景新街(景平路-往東)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000479"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.513978, 24.992498]
+			},
+			"properties": {
+				"cctv_id": 387,
+				"areacode": "C000480",
+				"區域": "中和區",
+				"address": "景平路 景平路151巷(景平路-往西)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000480"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.512008, 24.993362]
+			},
+			"properties": {
+				"cctv_id": 388,
+				"areacode": "C000481",
+				"區域": "中和區",
+				"address": "安樂路 安和路(中正路-往南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000481"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511743, 24.991364]
+			},
+			"properties": {
+				"cctv_id": 389,
+				"areacode": "C000482",
+				"區域": "中和區",
+				"address": "興南路 安樂路 景新街(安樂路-往北, 景新街-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000482"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.512353, 24.990173]
+			},
+			"properties": {
+				"cctv_id": 390,
+				"areacode": "C000483",
+				"區域": "中和區",
+				"address": "景新街 景新街383巷(景新街-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000483"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.510548, 24.989948]
+			},
+			"properties": {
+				"cctv_id": 391,
+				"areacode": "C000484",
+				"區域": "中和區",
+				"address": "興南路 信義街(興南路-往北)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000484"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.509045, 24.993951]
+			},
+			"properties": {
+				"cctv_id": 392,
+				"areacode": "C000485",
+				"區域": "中和區",
+				"address": "景新街 安平路(景新街-往東南, 安平街-往南)",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000485"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5460574, 24.9796556]
+			},
+			"properties": {
+				"cctv_id": 393,
+				"areacode": "C000486",
+				"區域": "新店區",
+				"address": "新店區 寶中路、品牌路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000486"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5465797, 24.9770538]
+			},
+			"properties": {
+				"cctv_id": 394,
+				"areacode": "C000487",
+				"區域": "新店區",
+				"address": "新店區 中興路、品牌路",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000487"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.643337, 25.075635]
+			},
+			"properties": {
+				"cctv_id": 395,
+				"areacode": "C000488",
+				"區域": "汐止區",
+				"address": "康寧街、新設匝道",
+				"影片網址": "https://atis.ntpc.gov.tw//ATIS/ShowFrame4CCTV/C000488"
+			}
+		}
+	]
+}
